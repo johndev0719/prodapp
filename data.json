@@ -1,0 +1,14 @@
+[
+  {
+    "id": "2",
+    "name": "Baseball bat",
+    "quantity": 6,
+    "unit_price": 555
+  },
+  {
+    "id": "1",
+    "name": "Rays",
+    "quantity": 123,
+    "unit_price": 543
+  }
+]
